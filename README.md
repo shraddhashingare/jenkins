@@ -1,4 +1,4 @@
-# 🚀 Jenkins Setup Guide 
+# 🚀 Jenkins Setup Guide (virtual machine)
 
 This guide helps you install and configure Jenkins on Ubuntu (manual or Docker), create a sample job, set up a GitHub webhook, and create a basic CI/CD pipeline.
 
